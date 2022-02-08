@@ -103,7 +103,7 @@ def handle_message(event):
 
 
 # 主動推播訊息
-line_bot_api.push_message('LintToken', 
+line_bot_api.push_message('User ID', 
                           TextSendMessage(text='安安您好！我是氣象專家Nico(*‘ v`*)\n我目前擁有的指令如下輸入:\n\nhelp => 查詢指令\n天氣 縣市 => 查看當地天氣狀況\n新年快樂 => 新年快樂賀圖\n\n其他指令開發中 敬請期待(⁰▿⁰)'))
 
 #主程式
