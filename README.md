@@ -8,3 +8,6 @@ help: 查詢
 天氣 縣市: 查詢當地天氣狀況  
 新年快樂: 新年快樂賀圖
 ```
+## Line ID  
+Line ID: @722uomez
+[加入好友](line://nv/recommendOA/@722uomez)
