@@ -10,4 +10,3 @@ help: 查詢
 ```
 ## Line ID  
 Line ID: @722uomez
-[加入好友](line://nv/recommendOA/@722uomez)
