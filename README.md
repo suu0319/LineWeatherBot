@@ -15,3 +15,6 @@ Line ID: @722uomez
 
 ## Preview  
 ![image](https://github.com/suu0319/LineWeatherBot/assets/59763965/1ede85d1-0016-45f6-afd6-72512e07192b)
+
+## Attention
+==**此為去掉公私鑰的備份，真正有使用到Flex Message Simulator的專案是Private**==
