@@ -12,3 +12,6 @@ help: 查詢
 ```
 Line ID: @722uomez
 ```
+
+## Preview  
+![image](https://github.com/suu0319/LineWeatherBot/assets/59763965/1ede85d1-0016-45f6-afd6-72512e07192b)
