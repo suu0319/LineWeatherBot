@@ -1,15 +1,12 @@
-﻿# Line氣象機器人 
-## Attention
-### 此為去掉公私鑰的備份，真正有使用到Flex Message Simulator的專案是Private
+﻿# Line Weather Bot 
+## Intro  
+Interact with the weather bot using commands. The forecast provides weather predictions for the next 36 hours (currently limited to city-level forecasts).
 
-## About  
-可以透過指令來與氣象機器人互動。  
-氣象預報為未來36小時(目前只能預報縣市)。
 ## Command  
 ```
-help: 查詢  
-天氣 縣市: 查詢當地天氣狀況  
-新年快樂: 新年快樂賀圖
+help: Display available commands  
+天氣 縣市: Get local weather information  
+新年快樂: Receive a New Year greeting image  
 ```
 
 ## Line ID  
